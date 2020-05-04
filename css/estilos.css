@@ -1,0 +1,19 @@
+body{
+	background:url("../imagen/ondas-a-cuadros-azules-3d_2560x1440_xtrafondos.com.jpg");
+	font:16px Helvetica;
+	line-height:1.2em;
+	margin-bottom:3em;
+	width:100%;
+}
+.ejemplo{margin:0 auto;max-width:960px;padding-top:.5em;width:100%}
+.boton,.crono{
+	border-radius:1em;color:#fff;height:1em;
+	vertical-align:middle;width:15%;background:#FFB76B;
+}
+.controles{margin:20px auto;text-align:center}
+.memoria{text-align:center;}
+.memoria article{background:#ffb76b;border-radius:1em;box-shadow:rgba(0,0,0,0.9) 0 0 8px;cursor:inherit;display:inline-block;filter:none;height:10em;margin:1%;min-width:150px;opacity:.4;vertical-align:top;width:20%;}
+.memoria article span{display:none;font-size:1.5em;font-weight:bold;line-height:1.1em;margin:2em 0 0 0}
+.retro{background:#b6dfed;border-bottom:2px solid #197199;border-top:2px solid #197199;color:#197199;display:none;margin-top:2em;width:100%;}
+.retro.incorrecto{background:#eaa6a6;border-bottom:2px solid #842222;border-top:2px solid #842222;color:#842222}
+.retro p{display:block;margin:.5em 0 .5em 1em;width:calc(100% - 2em)}
